@@ -20,6 +20,7 @@
     `favicon.ico` 
     `icon.png` 
     `apple-icon.png`
+
 5.如果使用的是next.js 13+， app路由 直接把这三个文件放到app目录下即可
 
 
