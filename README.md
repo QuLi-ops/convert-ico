@@ -17,10 +17,9 @@
 2. 准备一张高质量的源图片（建议尺寸大于 180×180）
 3. 将图片直接拖放到 `icon_generator.exe` 上
 4. 程序会在图片所在目录自动生成3个文件 
-    `favicon.ico` 
-    `icon.png` 
-    `apple-icon.png`
-
+`favicon.ico` 
+`icon.png` 
+`apple-icon.png`
 5.如果使用的是next.js 13+， app路由 直接把这三个文件放到app目录下即可
 
 
