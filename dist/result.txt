@@ -1,0 +1,5 @@
+图标生成成功！
+生成的文件：
+- G:\github_respository\convert-ico\dist\favicon.ico
+- G:\github_respository\convert-ico\dist\icon.png
+- G:\github_respository\convert-ico\dist\apple-icon.png
