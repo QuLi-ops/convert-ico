@@ -1,0 +1,6 @@
+程序开始运行
+输入文件路径: G:\github_respository\convert-ico\dist\ChatGPT Image 2025年5月31日 12_42_37.png
+输出目录: G:\github_respository\convert-ico\dist
+已生成 favicon.ico
+已生成 icon.png
+已生成 apple-icon.png
